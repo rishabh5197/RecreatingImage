@@ -1,0 +1,26 @@
+table{
+    background-image: url(https://wallpapercave.com/wp/wp2825763.jpg);
+    /* mask-repeat: no-repeat; */
+    align-items: center;
+}
+
+.firstrow{
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    border: 0px;
+    padding: 25px;
+}
+
+.largetext{
+    font-size: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+.smalltext{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
